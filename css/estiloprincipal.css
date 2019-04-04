@@ -1,0 +1,41 @@
+a.submenu{
+    /*margin: 0 0 0 20px;
+    padding: 0 0 0 60px;*/
+    padding-right: 60px;
+    --display:none;
+}
+
+a:hover{
+    background: black;
+}
+
+.vacaciones{
+ padding-left: 30px;   
+  padding-top: 30px; 
+  width: 400px;
+
+}
+
+#contenedor{
+    width:100%;
+}
+#titulo{
+    width:100%;
+    height: 80px;
+    float: left;
+    background: red;
+    padding-top: 30px;
+}
+#menu{
+    width: 30%;
+    height: 500px;
+    float: left;
+    background: green;
+}
+#contenido{
+   width: 70%;
+   height: 500px; 
+   float: left;
+   background: yellow;
+}
+
